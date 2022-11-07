@@ -1,0 +1,16 @@
+Org1
+Org2
+Org3
+
+parcelCollection - Org1-Org2
+orderCollection -  Org1 -Org3
+
+
+Seller
+Customer
+Courier
+
+
+Seller - Org1
+Customer - Org2
+Courier - Org3
